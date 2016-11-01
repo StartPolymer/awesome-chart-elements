@@ -2,7 +2,7 @@
 
 # awesome-charts
 
-Awesome charts elements.
+Awesome up–to–date charts elements.
 
 [github-image]: https://img.shields.io/badge/github.com-add%20element-lightgrey.svg
 [github-url]: https://github.com/StartPolymer/awesome-charts/issues/new?title=Add%20element%20&labels=User%20reports
