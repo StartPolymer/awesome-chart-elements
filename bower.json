@@ -19,5 +19,6 @@
     "multi-chart": "PolymerEl/multi-chart",
     "nvd3-elements": "saeidzebardast/nvd3-elements",
     "plotly-plot": "ginkgobioworks/plotly-plot"
-  }
+  },
+  "private": true
 }
