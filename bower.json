@@ -8,7 +8,7 @@
   "authors": [
     "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
   ],
-  "license": "https://github.com/StartPolymer/license",
+  "license": "MIT",
   "dependencies": {
     "d3-circle-packing": "saeidzebardast/d3-circle-packing",
     "dygraph-elements": "reinert/dygraph-elements",
