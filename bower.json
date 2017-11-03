@@ -10,15 +10,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "d3-circle-packing": "saeidzebardast/d3-circle-packing",
-    "dygraph-elements": "reinert/dygraph-elements",
-    "google-chart": "GoogleWebComponents/google-chart",
-    "granite-c3": "LostInBrittany/granite-c3",
-    "highcharts-chart": "avdaredevil/highcharts-chart",
-    "chart-elements": "robdodson/chart-elements",
-    "multi-chart": "PolymerEl/multi-chart",
-    "nvd3-elements": "saeidzebardast/nvd3-elements",
-    "plotly-plot": "ginkgobioworks/plotly-plot"
+    "google-chart": "GoogleWebComponents/google-chart#^1.0.0",
+    "granite-c3": "LostInBrittany/granite-c3#^1.0.0",
+    "highcharts-chart": "avdaredevil/highcharts-chart#^2.0.0",
+    "chart-elements": "robdodson/chart-elements#^3.0.0"
   },
   "private": true
 }
