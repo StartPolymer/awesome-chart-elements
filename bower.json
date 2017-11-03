@@ -10,10 +10,11 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "google-chart": "GoogleWebComponents/google-chart#^1.0.0",
-    "granite-c3": "LostInBrittany/granite-c3#^1.0.0",
-    "highcharts-chart": "avdaredevil/highcharts-chart#^2.0.0",
-    "chart-elements": "robdodson/chart-elements#^3.0.0"
+    "ability-chart": "yuanfux/ability-chart#^1.0.0",
+    "google-chart": "GoogleWebComponents/google-chart#^2.0.0",
+    "granite-c3": "LostInBrittany/granite-c3#^2.0.0",
+    "highcharts-chart": "avdaredevil/highcharts-chart#polymer-2.0",
+    "chart-elements": "robdodson/chart-elements#polymer-2.0"
   },
   "private": true
 }
